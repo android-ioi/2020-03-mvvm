@@ -5,3 +5,6 @@
 ## Member
 * [delpini](https://github.com/delpini)
 * [na-in-lee](https://github.com/na-in-lee)
+
+## 하위 문서
+* [Code Review](/docs/code-review.md)
