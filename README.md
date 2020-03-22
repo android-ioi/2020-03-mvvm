@@ -13,10 +13,12 @@
 3. Jetpack (Navigation/Paging/Room)
 4. Dagger (DI), Rx / Coroutine
 
-## 3/18 (수)
+## 3/25 (수)
 ### TODO
 - 심플한 MVVM 프로젝트 찾아보기
+    - https://github.com/android-ioi/architecture-samples
 - MVVM without DataBinding가 있는지?
+    - https://stackoverflow.com/questions/48292979/android-mvvm-without-databinding
 - Dagger, Coroutine은 다음 스터디때 따로. MVVM 프로젝트는 간단하게.
 
 ## 3/11 (수)
